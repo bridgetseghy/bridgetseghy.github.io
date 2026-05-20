@@ -12,25 +12,23 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Bridget Seghy"
 title_separator          : "-"
 name                     : &name "Bridget Seghy"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Bridget Seghy's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://bridgetseghy.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "bridgetseghy/bridgetseghy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Bridget Seghy"
+  pronouns         : "she/her"
+  bio              : "I am a currently a Ph.D. student at UNC Chapel Hill. My research is on American Politics, with a special focus on Congress, campaigns, and machine learning. I have received my MA in political science from UNC in 2025, and my BA in political science from The Ohio State University in 2023."
+  location         : "Chapel Hill, NC"
+  employer         : "University of North Carolina at Chapel Hill"
+  email            : "bgseghy@unc.edu"
 
   # Academic websites
   academia         : # URL
@@ -55,32 +53,11 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+googlescholar    :
+  orcid            : "https://orcid.org/0009-0004-2355-7933"
+  pubmed           :
+  github           : "bridgetseghy"
+  bluesky          :
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
