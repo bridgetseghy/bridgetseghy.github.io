@@ -11,7 +11,7 @@ Seghy, Bridget. "Rhetorical Bipartisanship: Hostility in Committee Communication
 
 ## Working Papers
 
-Seghy, Bridget. "Strategic Signaling: How Members of Congress Emphasize or Obfuscate Their Bipartisan Activity." *Under Review.*
+Seghy, Bridget. "Strategic Signaling: How Members of Congress Emphasize or Obfuscate Their Bipartisan Activity." *Invited to R & R at Legislative Studies Quarterly*
 
 Nelson, Thomas E. and Bridget Seghy. "Is Conservative the Opposite of Liberal?" *Under Review.*
 
