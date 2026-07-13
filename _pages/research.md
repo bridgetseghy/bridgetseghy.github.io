@@ -13,6 +13,6 @@ Seghy, Bridget. "Rhetorical Bipartisanship: Hostility in Committee Communication
 
 Seghy, Bridget. "Strategic Signaling: How Members of Congress Emphasize or Obfuscate Their Bipartisan Activity." *Invited to R & R at Legislative Studies Quarterly*
 
-Nelson, Thomas E. and Bridget Seghy. "Is Conservative the Opposite of Liberal?" *Under Review.*
+Nelson, Thomas E. and Bridget Seghy. "Is Conservative the Opposite of Liberal?" *Invited to R & R at Electoral Studies*
 
 Seghy, Bridget. "Smile for the Camera: How Visibility Impacts Incivility in Congressional Communications."
