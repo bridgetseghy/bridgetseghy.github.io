@@ -17,6 +17,6 @@ Nelson, Thomas E. and Bridget Seghy. "Is Conservative the Opposite of Liberal?" 
 
 Abi-Hassan, Sahar, Janet M. Box-Steffensmeier, Dino P. Christenson, Laura Moses, Bridget Seghy, Harper Strickland, Natalie Thacker, and Trey Thoma, "Pardoning on Different Terms: Presidential Discretion, Donors and the Timing of Clemency" *Under Review*
 
-Seghy, Bridget, "From District to Nation:  When Members of Congress: The Nationalization of Congressional Homestyles"
+Seghy, Bridget, "From District to Nation: The Nationalization of Congressional Homestyles"
 
 Seghy, Bridget, "Smile for the Camera: How Visibility Impacts Incivility in Congressional Communications"
