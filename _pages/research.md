@@ -15,8 +15,8 @@ Seghy, Bridget. "Strategic Signaling: How Members of Congress Emphasize or Obfus
 
 Nelson, Thomas E. and Bridget Seghy. "Is Conservative the Opposite of Liberal?" *Invited to R & R at Electoral Studies*
 
-Abi-Hassan, Sahar, Janet M. Box-Steffensmeier, Dino P. Christenson, Laura Moses, Bridget Seghy, Harper Strickland, Natalie Thacker, and Trey Thoma, "Pardoning on Different Terms: Presidential Discretion, Donors and the Timing of Clemency" *Under Review*
+Abi-Hassan, Sahar, Janet M. Box-Steffensmeier, Dino P. Christenson, Laura Moses, Bridget Seghy, Harper Strickland, Natalie Thacker, and Trey Thoma. "Pardoning on Different Terms: Presidential Discretion, Donors and the Timing of Clemency" *Under Review*
 
-Seghy, Bridget, "From District to Nation: The Nationalization of Congressional Homestyles"
+Seghy, Bridget. "From District to Nation: The Nationalization of Congressional Homestyles"
 
-Seghy, Bridget, "Smile for the Camera: How Visibility Impacts Incivility in Congressional Communications"
+Seghy, Bridget. "Smile for the Camera: How Visibility Impacts Incivility in Congressional Communications"
