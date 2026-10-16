@@ -4,6 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+All manuscripts are available upon request. 
 
 ## Published Work
 
