@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-All manuscripts are available upon request. 
 
 ## Published Work
 
@@ -21,3 +20,6 @@ Abi-Hassan, Sahar, Janet M. Box-Steffensmeier, Dino P. Christenson, Laura Moses,
 Seghy, Bridget. "From District to Nation: The Nationalization of Congressional Homestyles."
 
 Seghy, Bridget. "Smile for the Camera: How Visibility Impacts Incivility in Congressional Communications."
+
+
+All manuscripts available upon request. 
