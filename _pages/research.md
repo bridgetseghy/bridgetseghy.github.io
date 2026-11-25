@@ -7,7 +7,7 @@ author_profile: true
 
 ## Published Work
 
-Seghy, Bridget. 2026. "Strategic Signaling: How Members of Congress Emphasize or Obfuscate Their Bipartisan Activity." *Legislative Studies Quarterly* 51(4).
+Seghy, Bridget. 2026. "Strategic Signaling: How Members of Congress Emphasize or Obfuscate Their Bipartisan Activity." *Legislative Studies Quarterly* 51(4). [[Download here]](/files/seghy_strategic_signaling.pdf)
 
 Seghy, Bridget. 2026. "Rhetorical Bipartisanship: Hostility in Committee Communications." Book chapter in *A Year in C-SPAN Archives*.
 
